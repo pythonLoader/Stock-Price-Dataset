@@ -105,3 +105,6 @@ venv.bak/
 
 
 *.ini
+*.csv
+*.npy
+
